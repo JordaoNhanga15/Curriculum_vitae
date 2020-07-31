@@ -32,7 +32,7 @@ overflow-x: hidden;
     height: 100vh;
 }
 .profile-info::-webkit-scrollbar{
-    width: 0;
+    width: 3px;
 }
 .about{
     margin-left: 15px;
